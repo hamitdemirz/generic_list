@@ -1,0 +1,8 @@
+C:\Users\hamit\source\repos\generic_list\generic_list\bin\Debug\generic_list.exe.config
+C:\Users\hamit\source\repos\generic_list\generic_list\bin\Debug\generic_list.exe
+C:\Users\hamit\source\repos\generic_list\generic_list\bin\Debug\generic_list.pdb
+C:\Users\hamit\source\repos\generic_list\generic_list\obj\Debug\generic_list.csproj.AssemblyReference.cache
+C:\Users\hamit\source\repos\generic_list\generic_list\obj\Debug\generic_list.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamit\source\repos\generic_list\generic_list\obj\Debug\generic_list.csproj.CoreCompileInputs.cache
+C:\Users\hamit\source\repos\generic_list\generic_list\obj\Debug\generic_list.exe
+C:\Users\hamit\source\repos\generic_list\generic_list\obj\Debug\generic_list.pdb
